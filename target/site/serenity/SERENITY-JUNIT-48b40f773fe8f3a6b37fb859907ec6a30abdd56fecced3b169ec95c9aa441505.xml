@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.bestbuy.productinfo.ProductCurdTest" skipped="0" tests="1" time="0.0" timestamp="2023-02-27T22:41:15.603Z[Europe/London]"><testcase classname="com.bestbuy.productinfo.ProductCurdTest" name="Initialisation"><error message="null" type="java.lang.NumberFormatException">null</error><system-err>null&#13;
+com.bestbuy.testbase.TestBase.init(TestBase.java:15)&#13;
+</system-err></testcase></testsuite>
