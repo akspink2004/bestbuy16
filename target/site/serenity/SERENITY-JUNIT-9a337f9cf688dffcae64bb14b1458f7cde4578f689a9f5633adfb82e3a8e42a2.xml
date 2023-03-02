@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="com.bestbuy.productinfo.ProductCurdTest" skipped="0" tests="5" time="8.99" timestamp="2023-02-27T22:48:08.574Z[Europe/London]"><testcase classname="com.bestbuy.productinfo.ProductCurdTest" name="Test001"/><testcase classname="com.bestbuy.productinfo.ProductCurdTest" name="Test002"/><testcase classname="com.bestbuy.productinfo.ProductCurdTest" name="Verify if product was created"/><testcase classname="com.bestbuy.productinfo.ProductCurdTest" name="update the product and verify the update information"><failure message="1 expectation failed.&#10;Expected status code &lt;200&gt; but was &lt;404&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
-Expected status code &lt;200&gt; but was &lt;404&gt;.
-</failure><system-err>1 expectation failed.
-Expected status code &lt;200&gt; but was &lt;404&gt;.
-&#13;
-io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
-io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)&#13;
-io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)&#13;
-io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)&#13;
-com.bestbuy.productinfo.ProductCurdTest.test004(ProductCurdTest.java:106)&#13;
-</system-err></testcase><testcase classname="com.bestbuy.productinfo.ProductCurdTest" name="Delete the student and verify if the student is deleted"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.bestbuy.productinfo.ProductCurdTest" skipped="0" tests="5" time="8.05" timestamp="2023-02-28T21:53:01.045Z[Europe/London]"><testcase classname="com.bestbuy.productinfo.ProductCurdTest" name="get all product list"/><testcase classname="com.bestbuy.productinfo.ProductCurdTest" name="create new product"/><testcase classname="com.bestbuy.productinfo.ProductCurdTest" name="Verify if product was created"/><testcase classname="com.bestbuy.productinfo.ProductCurdTest" name="update the product and verify the update information"/><testcase classname="com.bestbuy.productinfo.ProductCurdTest" name="Delete the product and verify if the product is deleted"/></testsuite>
